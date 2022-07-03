@@ -1,0 +1,16 @@
+---
+modloader: Forge
+version: 1.16.5
+mods:
+  - name: mouse-tweaks
+    clientonly: true
+  - name: reauth
+  - name: jei
+    id: 238222
+  - name: just-enough-resources-jer
+  - name: toast-control
+  - name: randompatches-forge
+  - name: better-advancements
+
+  - name: default-options
+    clientonly: true
